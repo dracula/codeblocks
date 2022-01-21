@@ -2,7 +2,7 @@
 
 > A dark theme for [Code::Blocks](https://www.codeblocks.org/).
 
-![Screenshot](./screenshots/cpp.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
