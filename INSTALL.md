@@ -1,7 +1,7 @@
 ### [Code::Blocks](https://www.codeblocks.org/)
 
 
-#### Install
+#### To Install
 
 - Download the [dracula.conf file](https://raw.githubusercontent.com/wasi-master/codeblocks/master/dracula.conf).
 <!-- - Download the [dracula.conf file](https://draculatheme.com/codeblocks/dracula.conf). -->
