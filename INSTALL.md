@@ -14,17 +14,21 @@
   - **MacOS**
     - Open `CodeBlocks.app/Contents/MacOS/cb_share_config`
 - Click the <kbd>...</kbd> button under "Source configuration file"
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_1.png)
+
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/cb_share_config_1.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_1.png) -->
   <!-- ![Screenshot](./images/cb_share_config_1.png) -->
 
 - Navigate to where you downloaded the `dracula.conf` file, it will be most likely in the downloads folder
+
 - Click the two check boxes that appear
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_2.png)
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/cb_share_config_2.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_2.png) -->
   <!-- ![Screenshot](./images/cb_share_config_2.png) -->
+
 - Click the <kbd>...</kbd> button under "Destination configuration file"
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_3.png)
+
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/cb_share_config_3.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_3.png) -->
   <!-- ![Screenshot](./images/cb_share_config_3.png) -->
 - Navigate to the `default.conf` file of Codeblocks, the location will differ by OS
@@ -39,15 +43,20 @@
     - The location in MacOS is `~/Library/Application Support/codeblocks/default.conf`
     - The Library folder is by default hidden by the most recent version of Mac OX. You could use COMMAND+SHIFT+G to navigate to hidden folders.
 - Now click on the <kbd>Transfer >></kbd> Button
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_4.png)
+  
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/cb_share_config_4.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_4.png) -->
   <!-- ![Screenshot](./images/cb_share_config_4.png) -->
+
 - Click <kbd>Yes</kbd>
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_5.png)
+  
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/cb_share_config_5.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_5.png) -->
   <!-- ![Screenshot](./images/cb_share_config_5.png) -->
+
 - Then you'll see a message like this, press <kbd>Ok</kbd>
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_6.png)
+  
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/cb_share_config_6.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_6.png) -->
   <!-- ![Screenshot](./images/cb_share_config_6.png) -->
 
@@ -60,18 +69,25 @@ The theme should be automatically applied, if not, Go to `Settings` then `Editor
 You should also change your cursor color to white
 
 - Click Settings
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/codeblocks_caret_color_config_1.png)
+
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/codeblocks_caret_color_config_1.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/codeblocks_caret_color_config_1.png) -->
   <!-- ![Screenshot](./images/codeblocks_caret_color_config_1.png) -->
+
 - Click <kbd>Margins and caret</kbd>
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/codeblocks_caret_color_config_2.png)
+
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/codeblocks_caret_color_config_2.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/codeblocks_caret_color_config_2.png) -->
   <!-- ![Screenshot](./images/codeblocks_caret_color_config_2.png) -->
+
 - Click on the color
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/codeblocks_caret_color_config_3.png)
+
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/codeblocks_caret_color_config_3.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/codeblocks_caret_color_config_3.png) -->
   <!-- ![Screenshot](./images/codeblocks_caret_color_config_3.png) -->
+
 - Click the white color on the bottom right
-  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/codeblocks_caret_color_config_4.png)
+
+  ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/codeblocks_caret_color_config_4.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/codeblocks_caret_color_config_4.png) -->
   <!-- ![Screenshot](./images/codeblocks_caret_color_config_4.png) -->
