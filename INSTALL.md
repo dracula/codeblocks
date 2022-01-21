@@ -9,7 +9,7 @@
   - **Windows**
     - Open `C:\Program Files\CodeBlocks\cb_share_config.exe` depending on where you installed codeblocks
     - Or you can Go to start (Press <kbd>⊞ Win</kbd>) then type "Codeblocks Share Config"
-    - Run the application by pressing <kbd>Enter</kbd> or clicking on it's icon with the mouse
+    - Run the application by pressing <kbd>↵ Enter</kbd> or clicking on it's icon with the mouse
   - **Linux**
     - Run `cb_share_config` in the terminal
   - **MacOS**
@@ -42,7 +42,7 @@
       - The location in Linux is `~/. config/codeblocks/default.conf`
   - **MacOS**
     - The location in MacOS is `~/Library/Application Support/codeblocks/default.conf`
-    - The Library folder is by default hidden by the most recent version of Mac OX. You could use COMMAND+SHIFT+G to navigate to hidden folders.
+    - The Library folder is by default hidden by the most recent version of Mac OS. You could use <kbd>⌘ Command + ⇧ Shift + G</kbd> to navigate to hidden folders.
 - Now click on the <kbd>Transfer >></kbd> Button
   
   ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/cb_share_config_4.png)
