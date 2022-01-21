@@ -1,17 +1,77 @@
-### [Foobar](https://foobar.com)
+### [Code::Blocks](https://www.codeblocks.org/)
 
-#### Install using Git
-
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
-
-    git clone https://github.com/dracula/foobar.git
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/dracula/foobar/archive/master.zip) option and unzip them.
+- Download the [dracula.conf file](https://raw.githubusercontent.com/wasi-master/codeblocks/master/dracula.conf).
+<!-- - Download the [dracula.conf file](https://draculatheme.com/codeblocks/dracula.conf). -->
+- Open Codeblocks share config
+  - **Windows**
+    - Go to start (Press <kbd>⊞ Win</kbd>) then type "Codeblocks Share Config"
+    - Run the application by pressing <kbd>Enter</kbd> or clicking on it's icon with the mouse
+  - **Linux**
+      - Run `cb_share_config` in the terminal
+  - **MacOS**
+    - Open `CodeBlocks.app/Contents/MacOS/cb_share_config`
+- Click the <kbd>...</kbd> button under "Source configuration file"
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_1.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_1.png) -->
+  <!-- ![Screenshot](./images/cb_share_config_1.png) -->
+
+- Navigate to where you downloaded the `dracula.conf` file, it will be most likely in the downloads folder
+- Click the two check boxes that appear
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_2.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_2.png) -->
+  <!-- ![Screenshot](./images/cb_share_config_2.png) -->
+- Click the <kbd>...</kbd> button under "Destination configuration file"
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_3.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_3.png) -->
+  <!-- ![Screenshot](./images/cb_share_config_3.png) -->
+- Navigate to the `default.conf` file of Codeblocks, the location will differ by OS
+  - **Windows**
+    - The location in Windows is `C:/Users/<User Name>/AppData/Roaming/Codeblocks/default.conf`
+    - The AppData folder is by default hidden by Windows Explorer. 
+      - On Windows 10, Go to the "View" tab at the top and check the "Hidden items" checkbox
+      - On Windows 11, Click the "View" icon at the top then hover over "Show" and check the "Hidden items" checkbox
+  - **Linux**
+      - The location in Linux is `~/. config/codeblocks/default.conf`
+  - **MacOS**
+    - The location in MacOS is `~/Library/Application Support/codeblocks/default.conf`
+    - The Library folder is by default hidden by the most recent version of Mac OX. You could use COMMAND+SHIFT+G to navigate to hidden folders.
+- Now click on the <kbd>Transfer >></kbd> Button
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_4.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_4.png) -->
+  <!-- ![Screenshot](./images/cb_share_config_4.png) -->
+- Click <kbd>Yes</kbd>
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_5.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_5.png) -->
+  <!-- ![Screenshot](./images/cb_share_config_5.png) -->
+- Then you'll see a message like this, press <kbd>Ok</kbd>
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/cb_share_config_6.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_6.png) -->
+  <!-- ![Screenshot](./images/cb_share_config_6.png) -->
+
+And voilà, you've just installed the theme
 
 #### Activating theme
 
-1. Do this
-2. Then that
-3. Boom! It's working
+The theme should be automatically applied, if not, Go to `Settings` then `Editor` then `Syntax Highlighting` and set the `Colour Theme` to `dracula`
+
+You should also change your cursor color to white
+
+- Click Settings
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/codeblocks_caret_color_config_1.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/codeblocks_caret_color_config_1.png) -->
+  <!-- ![Screenshot](./images/codeblocks_caret_color_config_1.png) -->
+- Click <kbd>Margins and caret</kbd>
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/codeblocks_caret_color_config_2.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/codeblocks_caret_color_config_2.png) -->
+  <!-- ![Screenshot](./images/codeblocks_caret_color_config_2.png) -->
+- Click on the color
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/codeblocks_caret_color_config_3.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/codeblocks_caret_color_config_3.png) -->
+  <!-- ![Screenshot](./images/codeblocks_caret_color_config_3.png) -->
+- Click the white color on the bottom right
+  ![Screenshot](https://github.com/wasi-master/codeblocks/blob/master/images/codeblocks_caret_color_config_4.png)
+  <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/codeblocks_caret_color_config_4.png) -->
+  <!-- ![Screenshot](./images/codeblocks_caret_color_config_4.png) -->
