@@ -32,7 +32,7 @@
   ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/cb_share_config_3.png)
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_3.png) -->
   <!-- ![Screenshot](./images/cb_share_config_3.png) -->
-- Navigate to the `default.conf` file of Codeblocks, the location will differ by OS
+- Navigate to the `default.conf` file of Codeblocks, the location will differ by OS, If you can't find it, you should try creating a new project so that it gets created again.
   - **Windows**
     - The location in Windows is `C:/Users/<User Name>/AppData/Roaming/Codeblocks/default.conf`
     - The AppData folder is by default hidden by Windows Explorer. 
