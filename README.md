@@ -1,20 +1,22 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [Code::Blocks](https://www.codeblocks.org/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [Code::Blocks](https://www.codeblocks.org/).
 
-![Screenshot](./screenshot.png)
+![Screenshot](./screenshots/cpp.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [INSTALL.md](https://github.com/wasi-master/codeblocks/blob/master/INSTALL.md).
+<!-- All instructions can be found at [draculatheme.com/codeblocks](https://draculatheme.com/codeblocks). -->
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/wasi-master/codeblocks/graphs/contributors).
+<!-- This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/codeblocks/graphs/contributors). -->
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
+[![Wasi Master](https://github.com/wasi-master.png?size=100)](https://github.com/wasi-master) |
 --- |
-[Zeno Rocha](https://github.com/zenorocha) |
+[Wasi Master](https://github.com/wasi-master) |
 
 ## License
 
