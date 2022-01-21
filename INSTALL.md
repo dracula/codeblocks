@@ -1,16 +1,17 @@
 ### [Code::Blocks](https://www.codeblocks.org/)
 
 
-#### Install manually
+#### Install
 
 - Download the [dracula.conf file](https://raw.githubusercontent.com/wasi-master/codeblocks/master/dracula.conf).
 <!-- - Download the [dracula.conf file](https://draculatheme.com/codeblocks/dracula.conf). -->
 - Open Codeblocks share config
   - **Windows**
-    - Go to start (Press <kbd>⊞ Win</kbd>) then type "Codeblocks Share Config"
+    - Open `C:\Program Files\CodeBlocks\cb_share_config.exe` depending on where you installed codeblocks
+    - Or you can Go to start (Press <kbd>⊞ Win</kbd>) then type "Codeblocks Share Config"
     - Run the application by pressing <kbd>Enter</kbd> or clicking on it's icon with the mouse
   - **Linux**
-      - Run `cb_share_config` in the terminal
+    - Run `cb_share_config` in the terminal
   - **MacOS**
     - Open `CodeBlocks.app/Contents/MacOS/cb_share_config`
 - Click the <kbd>...</kbd> button under "Source configuration file"
