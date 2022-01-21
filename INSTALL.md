@@ -61,7 +61,7 @@
   <!-- ![Screenshot](https://draculatheme.com/codeblocks/images/cb_share_config_6.png) -->
   <!-- ![Screenshot](./images/cb_share_config_6.png) -->
 
-And voilà, you've just installed the theme
+- Then press <kbd>Save</kbd> and voilà, you've just installed the theme
 
 #### Activating theme
 
