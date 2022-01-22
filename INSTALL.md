@@ -34,12 +34,12 @@
   <!-- ![Screenshot](./images/cb_share_config_3.png) -->
 - Navigate to the `default.conf` file of Codeblocks, the location will differ by OS, If you can't find it, you should try creating a new project so that it gets created again.
   - **Windows**
-    - The location in Windows is `C:/Users/<User Name>/AppData/Roaming/Codeblocks/default.conf`
+    - The location in Windows is `C:/Users/<User Name>/AppData/Roaming/Codeblocks/default.conf` (`%APPDATA%/Codeblocks/default.conf`)
     - The AppData folder is by default hidden by Windows Explorer. 
       - On Windows 10, Go to the "View" tab at the top and check the "Hidden items" checkbox
       - On Windows 11, Click the "View" icon at the top then hover over "Show" and check the "Hidden items" checkbox
   - **Linux**
-      - The location in Linux is `~/. config/codeblocks/default.conf`
+      - The location in Linux is `~/.config/codeblocks/default.conf`
   - **MacOS**
     - The location in MacOS is `~/Library/Application Support/codeblocks/default.conf`
     - The Library folder is by default hidden by the most recent version of Mac OS. You could use <kbd>⌘ Command + ⇧ Shift + G</kbd> to navigate to hidden folders.
