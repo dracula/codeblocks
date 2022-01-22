@@ -11,9 +11,9 @@
     - Or you can Go to start (Press <kbd>⊞ Win</kbd>) then type "Codeblocks Share Config"
     - Run the application by pressing <kbd>↵ Enter</kbd> or clicking on it's icon with the mouse
   - **Linux**
-    - Run `cb_share_config` in the terminal
+    - Open `~/.codeblocks/cb_share_config` depending on where you installed codeblocks, you may also want to run it as sudo
   - **MacOS**
-    - Open `CodeBlocks.app/Contents/MacOS/cb_share_config`
+    - Open `/Applications/CodeBlocks.app/Contents/MacOS/cb_share_config`
 - Click the <kbd>...</kbd> button under "Source configuration file"
 
   ![Screenshot](https://github.com/wasi-master/codeblocks/raw/master/images/cb_share_config_1.png)
